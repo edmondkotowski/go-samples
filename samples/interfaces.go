@@ -24,7 +24,7 @@ func (b *Baz) Run() string {
 
 // Embedded Types
 type UberFoo struct {
-    Bar  // Compostion
+    Bar  // Composition
     Name string
 }
 
